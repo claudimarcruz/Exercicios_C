@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593476870 source:c:\users\claud\documents\jogo da senha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

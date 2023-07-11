@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638393143 source:c:\users\claud\documents\unipac\1 período\code blocks2\editor cripto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591983967 source:c:\users\claud\documents\struct média ponderada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

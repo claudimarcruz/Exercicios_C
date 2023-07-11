@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590937059 source:c:\users\claud\documents\fatorial duplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

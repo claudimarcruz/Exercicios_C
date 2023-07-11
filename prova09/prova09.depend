@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639146206 source:c:\users\claud\documents\unipac\1 período\code blocks2\prova09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

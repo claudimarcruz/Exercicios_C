@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586343878 source:c:\users\claud\documents\vetor-exemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+

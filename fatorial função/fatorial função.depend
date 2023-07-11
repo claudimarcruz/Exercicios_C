@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589630814 source:c:\users\claud\documents\fatorial função\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

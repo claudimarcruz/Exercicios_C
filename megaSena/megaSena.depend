@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640605986 source:c:\users\claud\documents\unipac\1 período\code blocks2\megasena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

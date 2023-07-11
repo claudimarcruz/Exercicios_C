@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592252793 source:c:\users\claud\documents\diferença de datas em dias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

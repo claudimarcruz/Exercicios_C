@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590073163 source:c:\users\claud\documents\vetor na função\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

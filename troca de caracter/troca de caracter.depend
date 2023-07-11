@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587504401 source:c:\users\claud\documents\troca de caracter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

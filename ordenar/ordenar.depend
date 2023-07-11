@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633454390 source:c:\users\claud\documents\unipac\1 período\code blocks2\ordenar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

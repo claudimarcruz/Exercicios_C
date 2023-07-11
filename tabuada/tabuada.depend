@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586438725 source:c:\users\claud\documents\tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

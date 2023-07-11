@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591741940 source:c:\users\claud\documents\sorteio de copa com enum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

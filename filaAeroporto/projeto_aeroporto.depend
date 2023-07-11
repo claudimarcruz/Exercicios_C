@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632963865 source:c:\users\rafae\onedrive\Área de trabalho\projeto_aeroporto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1633019120 source:c:\users\claud\documents\unipac\1 período\code blocks2\filaaeroporto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

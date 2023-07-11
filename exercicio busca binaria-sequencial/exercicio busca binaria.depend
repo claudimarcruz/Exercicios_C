@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637594561 source:c:\users\claud\documents\unipac\1 período\code blocks2\exercicio busca binaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1637604297 source:c:\users\claud\documents\unipac\1 período\code blocks2\exercicio busca binaria-sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

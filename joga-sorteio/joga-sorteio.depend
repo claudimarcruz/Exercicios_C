@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586873642 source:c:\users\claud\documents\joga-sorteio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

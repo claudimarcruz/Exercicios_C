@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594937040 source:c:\users\claud\documents\soma das linhas pares de uma matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

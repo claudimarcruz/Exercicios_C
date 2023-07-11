@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588630066 source:c:\users\claud\documents\trocar linhas matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

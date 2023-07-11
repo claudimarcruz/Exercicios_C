@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589712157 source:c:\users\claud\documents\função n 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1633973290 source:c:\users\claud\documents\unipac\1 período\code blocks2\exercicio shakesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1633973345 source:c:\users\claud\documents\unipac\1 período\code blocks2\exercicio shakesort-bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

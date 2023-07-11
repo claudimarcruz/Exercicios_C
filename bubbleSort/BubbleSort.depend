@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632749434 source:c:\users\nairon\google drive\documentos\ciência da computação\estruturas de dados\projetos\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633560512 source:c:\users\claud\documents\unipac\1 período\code blocks2\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

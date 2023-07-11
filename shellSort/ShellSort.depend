@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633030030 source:c:\users\nairon\google drive\documentos\ciência da computação\estruturas de dados\projetos\shellsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635549479 source:c:\users\claud\documents\unipac\1 período\code blocks2\shellsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

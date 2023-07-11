@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587926608 source:c:\users\claud\documents\código de césar\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+
+1637258126 source:c:\users\claud\documents\unipac\1 período\cb exercicios\código de césar\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+

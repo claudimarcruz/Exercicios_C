@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586452909 source:c:\users\claud\documents\contagem regressiva\main.c
+	<stdio.h>
+	<stdlib.h>
+

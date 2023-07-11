@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587146859 source:c:\users\claud\documents\string invertida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1587146860 source:c:\users\claud\documents\unipac\1 período\cb exercicios\string invertida\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

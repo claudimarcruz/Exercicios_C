@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591741220 source:c:\users\claud\documents\struct alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

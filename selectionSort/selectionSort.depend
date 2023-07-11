@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631835711 source:c:\users\claud\documents\unipac\1 período\code blocks2\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

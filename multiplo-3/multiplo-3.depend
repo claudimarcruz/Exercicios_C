@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586896052 source:c:\users\claud\documents\multiplo-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
